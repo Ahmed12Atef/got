@@ -1,1 +1,1 @@
-alert ("Why a u so dump");
+alert ("Why are you so dump");
